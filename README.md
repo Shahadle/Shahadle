@@ -3,7 +3,7 @@
 I'm a full-stack developer. I design and build whatever I can imagine.
 
 ## 🛠️ Tech & Tools
-https://img.shields.io/badge/JavaScript-yellow
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
 
 
 <!--
