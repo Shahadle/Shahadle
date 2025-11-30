@@ -32,7 +32,7 @@ I'm a full-stack developer who enjoys designing and creating apps that are both 
 
 ## ✨ Fun Facts about me
 * I enjoy game development and experimenting with Unity in my free time.
-* I like studying UI designs.
+* I enjoy exploring UI design concepts.
 * I enjoy exploring and experimenting with AI tools.
 
 <!--
