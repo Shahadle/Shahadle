@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Shahad 👋
+
+I'm a full-stack developer. I design and build whatever I can imagine.
+
+## 🛠️ Tech & Tools
+https://img.shields.io/badge/JavaScript-yellow
+
 
 <!--
 **Shahadle/Shahadle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
