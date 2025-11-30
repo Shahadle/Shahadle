@@ -11,7 +11,7 @@ I'm a full-stack developer who enjoys designing and creating apps that are both 
     <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue">
   </a>
   <a href="https://vuejs.org/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-green">
   </a>
   <a href="https://vitest.dev/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Vitest-darkgreen">
