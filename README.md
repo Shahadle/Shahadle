@@ -1,6 +1,6 @@
 ## Hi there, I'm Shahad 👋
 
-I'm a full-stack developer.
+I'm a full-stack developer who enjoys designing and creating apps that are both engaging and meaningful. I love learning and sharing knowledge.
 
 ## 🛠️ Tech & Tools
 <p align="center">
@@ -26,9 +26,14 @@ I'm a full-stack developer.
     <img alt="Static Badge" src="https://img.shields.io/badge/SQL-darkblue">
   </a>
   <a href="https://unity.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/unity-black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/unity-grey">
   </a>
 </p>
+
+## ✨ Fun Facts about me
+* I enjoy game development and experimenting with Unity in my free time.
+* I like studying UI designs.
+* I enjoy exploring and experimenting with AI tools.
 
 <!--
 **Shahadle/Shahadle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
