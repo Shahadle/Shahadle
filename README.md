@@ -3,10 +3,11 @@
 I'm a full-stack developer. I design and build whatever I can imagine.
 
 ## 🛠️ Tech & Tools
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
-</a>
-
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
+  </a>
+</p>
 
 <!--
 **Shahadle/Shahadle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
