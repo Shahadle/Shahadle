@@ -25,6 +25,9 @@ I'm a full-stack developer who enjoys designing and creating apps that are both 
   <a href="https://en.wikipedia.org/wiki/SQL">
     <img alt="Static Badge" src="https://img.shields.io/badge/SQL-darkblue">
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C#-purple">
+  </a>
   <a href="https://unity.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/unity-grey">
   </a>
