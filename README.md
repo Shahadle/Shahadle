@@ -3,6 +3,8 @@
 I'm a full-stack developer who enjoys designing and creating apps that are both engaging and meaningful. I love learning and sharing knowledge.
 
 ## 🛠️ Tech & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E">
   </a>
